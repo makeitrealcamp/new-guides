@@ -19,7 +19,7 @@ const sidebars = {
     { id: 'intro', label: 'Acuerdos', type: 'doc' },
     {
       type: 'category',
-      label: 'Guía de Estilos',
+      label: 'Configuración',
       collapsible: false,
       items: [
         { id: 'code-style/editor-config', label: 'Editores', type: 'doc' },

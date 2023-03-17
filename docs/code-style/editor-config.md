@@ -6,7 +6,6 @@ Un editor de código es una herramienta de software que se utiliza para escribir
 ## Visual Studio Code
 En [Make It Real](https://makeitreal.camp/) recomendamos y sugerimos [Visual Studio Code (VS Code)](https://code.visualstudio.com/) es uno de los editores de código más populares en la actualidad. Una de las razones por las que VS Code es tan popular es que es un editor de código de fuente abierta y gratuito que funciona en diferentes sistemas operativos, como Windows, macOS y Linux. Además, VS Code cuenta con una amplia gama de extensiones y plugins que permiten a los desarrolladores personalizar y mejorar la funcionalidad del editor.
 
-<img src="https://code.visualstudio.com/assets/home/home-screenshot-mac-lg-2x.png">
 
 ## EditorConfig
 [EditorConfig](https://editorconfig.org/) ayuda a mantener estilos de codificación coherentes para varios desarrolladores que trabajan en el mismo proyecto en varios editores e IDE.
@@ -15,7 +14,7 @@ El archivo .`editorConfig` se utiliza para estandarizar el formato del código f
 
 Para configurar EditorConfig en Visual Studio Code, sigue estos pasos:
 
-1. Instala la extensión ["EditorConfig for VS Code"](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) desde la tienda de extensiones de VS Code.
+1. Instala la extensión [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) desde la tienda de extensiones de VS Code.
 
 2. Asegúrate de que el archivo ".editorconfig" esté presente en el directorio raíz del proyecto.
 
@@ -38,6 +37,8 @@ insert_final_newline = true
 trim_trailing_whitespace = false
 ```
 
-Abre los archivos del proyecto en VS Code y verás que la extensión ["EditorConfig for VS Code"](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) automáticamente aplica las reglas de formato definidas en el archivo ".editorconfig".
+Abre los archivos del proyecto en VS Code y verás que la extensión [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) automáticamente aplica las reglas de formato definidas en el archivo `.editorconfig`.
 
 Con EditorConfig, puedes asegurarte de que tu código se formatee correctamente en todos los editores de código que utilices. Esto hace que sea más fácil de leer, entender y mantener, y mejora la calidad y eficiencia del desarrollo del proyecto en equipo.
+
+hola

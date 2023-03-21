@@ -22,9 +22,25 @@ const sidebars = {
       label: 'Configuración',
       collapsible: false,
       items: [
-        { id: 'code-style/editor-config', label: 'Editores', type: 'doc' },
-        { id: 'code-style/eslint', label: 'Linters', type: 'doc' },
-        { id: 'code-style/prettier', label: 'Formateadores', type: 'doc' },
+        { id: 'setup/entorno-local', label: 'Entorno local', type: 'doc' },
+        {
+          type: 'category',
+          label: 'Herramientas',
+          items: [
+            { id: 'setup/editor-config', label: 'Editores', type: 'doc' },
+            { id: 'setup/eslint', label: 'Linters', type: 'doc' },
+            { id: 'setup/prettier', label: 'Formateadores', type: 'doc' },
+          ]
+        },
+        {
+          type: 'category',
+          label: 'Proyectos',
+          collapsible: false,
+          items: [
+            { id: 'projects/react', label: 'React.js', type: 'doc' },
+            { id: 'projects/nodejs', label: 'Node.js', type: 'doc' },
+          ],
+        },
       ],
     },
   ],

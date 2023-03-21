@@ -10,6 +10,8 @@ Los linters son herramientas que analizan el código fuente en busca de errores,
 
 [Eslint](https://eslint.org/) también es altamente personalizable y se puede integrar con otras herramientas de desarrollo, como control de versiones y automatización de tareas. Esto hace que sea más fácil trabajar en proyectos de equipo y asegurarse de que el código sea consistente y cumpla con los estándares de codificación establecidos.
 
+Dentro de Make It Real, usamos la guiá de estilos de [Airbnb](https://github.com/airbnb/javascript) para JavaScript. Esta guía de estilos es una guía de estilos de JavaScript popular que proporciona reglas para escribir código JavaScript consistente y legible. También proporciona reglas para escribir código React consistente y legible. Esta guía de estilos es ampliamente utilizada en la comunidad de desarrolladores de JavaScript y es compatible con [Eslint](https://eslint.org/).
+
 ### Instalación
 
 Para instalar [Eslint](https://eslint.org/) en tu proyecto, debes ejecutar el siguiente comando en la terminal:

@@ -35,7 +35,6 @@ const sidebars = {
         {
           type: 'category',
           label: 'Proyectos',
-          collapsible: false,
           items: [
             { id: 'projects/react', label: 'React.js', type: 'doc' },
             { id: 'projects/nodejs', label: 'Node.js', type: 'doc' },

@@ -19,9 +19,46 @@ Si no quieres usar WSL 2, puedes usar cualquiera de las siguientes alternativas:
 
 ### Alternativa 1: Usar un emulador de terminal
 
+Como sabemos que no todos tienen la posibilidad de usar WSL 2, hemos preparado una guía para instalar un emulador de terminal en Windows. Este emulador nos permitirá usar comandos de Linux en Windows.
+
+Para instalar el emulador de terminal, sigue los siguientes pasos:
+
+1. Descarga [Cmder](https://cmder.app/) la versión `Full`(with Git for Windows)
+2. Descomprime la carpeta, te recomendamos que la descomprimas en `C:\` para que sea más fácil de encontrar. __Nota__: Esta ruta no debe ser `C:\Archivos de programa` o `C:\Program Files` ni ningún otro lugar que requiera acceso de administrador para modificar los archivos de configuración.
+3. (opcional) Coloca tus propios archivos ejecutables en la carpeta `%cmder_root%\bin` para inyectarlos en su `PATH`.
+4.. Abre el archivo `Cmder.exe` y espera a que se abra la terminal.
+
 ### Alternativa 2: Usar una máquina virtual con Linux
 
+Si no quieres usar WSL 2 ni un emulador de terminal, puedes usar una máquina virtual con Linux. Para esto, te recomendamos usar [VirtualBox](https://www.virtualbox.org/wiki/Downloads) y [Ubuntu](https://ubuntu.com/download/desktop).
+
+Para instalar Ubuntu en VirtualBox, sigue los siguientes pasos:
+
+1. Descarga [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+2. Descarga [Ubuntu](https://ubuntu.com/download/desktop)
+3. Abre VirtualBox y crea una nueva máquina virtual
+4. Selecciona la opción `Linux` y la versión `Ubuntu (64-bit)`
+5. Selecciona la cantidad de memoria RAM que quieres asignarle a la máquina virtual
+6. Selecciona la cantidad de espacio en disco duro que quieres asignarle a la máquina virtual
+7. Selecciona la opción `Crear un disco duro virtual ahora`
+8. Selecciona la opción `VDI (VirtualBox Disk Image)`
+9. Selecciona la opción `Dinámico alocado`
+10. Selecciona la cantidad de espacio en disco duro que quieres asignarle a la máquina virtual
+11. Selecciona la opción `Crear`
+12. Selecciona la opción `Iniciar`
+13. Selecciona la opción `Instalar Ubuntu`
+
 ### Alternativa 3: Tener un dual boot con Linux en Windows
+
+Si no quieres usar WSL 2, un emulador de terminal ni una máquina virtual, puedes tener un dual boot con Linux en Windows. Para esto, te recomendamos usar [Ubuntu](https://ubuntu.com/download/desktop).
+
+Para instalar Ubuntu en Windows, sigue los siguientes pasos:
+
+1. Descarga [Ubuntu](https://ubuntu.com/download/desktop)
+2. Abre el instalador de Ubuntu
+3. Selecciona la opción `Instalar Ubuntu`
+4. Selecciona la opción `Instalar ahora`
+5. Selecciona la opción `Instalar Ubuntu junto a Windows `
 
 
 ## Linux y Mac OS X

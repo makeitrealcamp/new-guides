@@ -12,8 +12,8 @@ La documentación completa de Express la encuentras en [https://expressjs.com/es
 
 ## Prerequisitos
 
-* [Preparación](./../../preparacion/)
-* [JavaScript](./../../javascript/)
+* [Preparación](./../../preparacion.md)
+* [JavaScript](./../../javascript/README.md)
 
 ## Contenido
 

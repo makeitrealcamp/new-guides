@@ -17,7 +17,7 @@ En estas guías vamos a ver primero cómo trabajar con **git** localmente y lueg
 
 ## Prerequisitos
 
-* [Preparación](../preparacion/)
+* [Preparación](../preparacion.md)
 
 ## Contenido
 

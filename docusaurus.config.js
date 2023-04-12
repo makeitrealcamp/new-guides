@@ -138,9 +138,9 @@ const config = {
         darkTheme: darkCodeTheme,
       },
       algolia: {
-        appId: process.env.ALGOLIA_APP_ID,
-        apiKey: process.env.ALGOLIA_SEARCH_API_KEY,
-        indexName: process.env.ALGOLIA_INDEX_NAME,
+        appId: 'JGBQSJQLIV',
+        apiKey: '53bd4f3b47be96fef37a4bdff729ce95',
+        indexName: 'guias-makeitreal',
       },
     }),
 };

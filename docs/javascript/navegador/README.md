@@ -13,8 +13,8 @@ Entre muchas otras!
 
 ## Prerequisitos
 
-* [Preparación](./../../preparacion)
-* [JavaScript](./../)
+* [Preparación](./../../preparacion.md)
+* [JavaScript](./../README.md)
 
 ## Temas
 

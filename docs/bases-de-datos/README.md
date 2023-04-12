@@ -21,11 +21,11 @@ Los **SGBD no relacionales** \(también conocidas como **NoSQL**\) modelan la in
 
 ## Prerequisitos
 
-* [Preparación](../preparacion/)
+* [Preparación](../preparacion.md)
 
 Para MongoDB se recomiendan los siguientes temas:
 
-* [JavaScript](../javascript/)
+* [JavaScript](../javascript/README.md)
 
 ## Contenido
 

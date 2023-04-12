@@ -6,7 +6,7 @@ Aunque la idea detrás de Redux es muy simple, la terminología que utilizan lo 
 
 ## Prerequisitos
 
-* [React](../react/)
+* [React](../react/README.md)
 
 ## Contenido
 

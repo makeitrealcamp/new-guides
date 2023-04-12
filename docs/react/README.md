@@ -6,8 +6,8 @@ React fue creada, y es mantenida, por Facebook, pero es una librería de [códig
 
 ## Prerequisitos
 
-* [Preparación](../preparacion/)
-* [JavaScript](../javascript/)
+* [Preparación](../preparacion.md)
+* [JavaScript](../javascript/README.md)
 
 ## Contenido
 

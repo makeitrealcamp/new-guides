@@ -28,7 +28,7 @@ Para cada una de estas clases existen varios algoritmos que debemos conocer y ap
 
 ## Prerequisitos
 
-* [JavaScript](../javascript/)
+* [JavaScript](../javascript/README.md)
 
 ## Contenido
 

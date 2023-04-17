@@ -139,7 +139,7 @@ const config = {
       },
       algolia: {
         appId: 'JGBQSJQLIV',
-        apiKey: '53bd4f3b47be96fef37a4bdff729ce95',
+        apiKey: 'd71c4106c29f396b335c7dda56e4f8e8',
         indexName: 'guias-makeitreal',
       },
     }),

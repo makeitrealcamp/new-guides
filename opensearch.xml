@@ -4,8 +4,8 @@
   <ShortName>Make It Real</ShortName>
   <Description>Search Make It Real</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://guides.makeitreal.camp/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://guides.makeitreal.camp/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://guides.makeitreal.camp/opensearch.xml" />
-  <moz:SearchForm>https://guides.makeitreal.camp/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://guias.makeitreal.camp/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://guias.makeitreal.camp/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://guias.makeitreal.camp/opensearch.xml" />
+  <moz:SearchForm>https://guias.makeitreal.camp/</moz:SearchForm>
 </OpenSearchDescription>

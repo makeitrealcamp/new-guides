@@ -40,5 +40,3 @@ trim_trailing_whitespace = false
 Abre los archivos del proyecto en VS Code y verás que la extensión [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) automáticamente aplica las reglas de formato definidas en el archivo `.editorconfig`.
 
 Con EditorConfig, puedes asegurarte de que tu código se formatee correctamente en todos los editores de código que utilices. Esto hace que sea más fácil de leer, entender y mantener, y mejora la calidad y eficiencia del desarrollo del proyecto en equipo.
-
-hola
